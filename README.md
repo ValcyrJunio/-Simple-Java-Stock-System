@@ -21,12 +21,13 @@ Two arrays:
 Each product is stored by position (index).
 
 📋 Menu Options
+
 1 - Add product  
 2 - Remove product  
 3 - List all products  
 4 - Add quantity  
 5 - Remove quantity  
-6 - Search by product name
+6 - Search by product name 
 7 - Exit  
 
 🛠 Technologies used
