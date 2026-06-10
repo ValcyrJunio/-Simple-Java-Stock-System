@@ -26,7 +26,8 @@ Each product is stored by position (index).
 3 - List all products  
 4 - Add quantity  
 5 - Remove quantity  
-6 - Exit  
+6 - Search by product name
+7 - Exit  
 
 🛠 Technologies used
  - Java
